@@ -13,3 +13,5 @@ Console.WriteLine("\n=== CURSO ONLINE ===");
 Console.WriteLine($"Nome: {curso.Nome}");
 Console.WriteLine($"Preço: R$ {curso.Preco}");
 Console.WriteLine($"Carga horária: {curso.CargaHoraria} horas");
+
+// Finalizado
